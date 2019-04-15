@@ -12,7 +12,7 @@ Given a dataset of images, with a set of 2D-3D correspondences for each image, a
 
 <img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W2PnP.png?raw=true" align="Center" width="600"/>
 
-<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" align="Center" width="100"/>
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" class="Center" width="1000" height="10"/>
 
 # Harris Corner Detection and Keypoint Tracking
 We have implemented Harris corner detection, matching Descriptor and keypoint tracking on the popular KITTI dataset.
@@ -22,7 +22,7 @@ We have implemented Harris corner detection, matching Descriptor and keypoint tr
 <img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W33.png?raw=true" align="Left" width="400"/>
 <img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W34.png?raw=true" align="Right" width="400"/>
 
-<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" align="Center" width="600"/>
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" class="Center" width="1000" height="10"/>
 
 # SIFT (Scale-Invariant Feature Transform)
 We have implemented the SIFT algorithm (descriptor) as simplified version of the original SIFT algorithm
@@ -30,5 +30,5 @@ We have implemented the SIFT algorithm (descriptor) as simplified version of the
 <img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W43.png?raw=true" align="Right" width="400"/>
 <img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W43.png?raw=true" align="middle" width="600"/>
 
-<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" align="Center" width="600"/>
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" class="Center" width="1000" height="10"/>
 
