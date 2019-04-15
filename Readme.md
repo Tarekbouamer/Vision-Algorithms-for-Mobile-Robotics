@@ -9,3 +9,11 @@ The goal of this exercise is to superimpose a virtual cube on a video of a plana
 Given a dataset of images, with a set of 2D-3D correspondences for each image, and the camera matrix K. we have implement the DLT algorithm to estimate the camera pose [R/t] for each image.
 
 <img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W2PnP.png?raw=true" align="Center" width="600"/>
+
+# Harris Corner Detection and Keypoint Tracking
+We have implemented Harris corner detection, matching Descriptor and keypoint tracking on the popular KITTI dataset.
+
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W31.png?raw=true" align="Center" width="600"/>
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W32.png?raw=true" align="Center" width="600"/>
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W33.png?raw=true" align="Center" width="600"/
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W34.png?raw=true" align="Center" width="600"/>
