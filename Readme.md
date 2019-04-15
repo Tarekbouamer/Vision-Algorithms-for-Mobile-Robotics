@@ -5,7 +5,7 @@ The goal of this exercise is to superimpose a virtual cube on a video of a plana
 
 <img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/W1AR.png?raw=true" align="Center" width="600"/>
 
-<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" align="Center" width="1000" height="10"/>
+<img src="https://github.com/Tarekbouamer/Vision-Algorithms-for-Mobile-Robotics/blob/master/me/S.png?raw=true" class="Center" width="1000" height="10"/>
 
 # The Perspective-n-Point (PnP)
 Given a dataset of images, with a set of 2D-3D correspondences for each image, and the camera matrix K. we have implement the DLT algorithm to estimate the camera pose [R/t] for each image.
